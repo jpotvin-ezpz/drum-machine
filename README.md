@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="innocent-name.surge.sh">
+    <a href="https://innocent-name.surge.sh">
       Demo
     </a>
     <span> | </span>
